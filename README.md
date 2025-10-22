@@ -67,7 +67,7 @@ SELECT
   city,
   COUNT(cname) AS customer_count
 FROM 
-  public.customers
+  public.customer
 GROUP BY 
   city
 ORDER BY 
