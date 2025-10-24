@@ -27,8 +27,9 @@ Blinkit Tables:
 ![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100723.png?raw=true)
 ![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100735.png?raw=true)
 ![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100753.png?raw=true)
+![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100808.png?raw=true)
 ![image Alt]()
-
+![image Alt]()
 
 
 
