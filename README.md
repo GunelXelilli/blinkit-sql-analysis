@@ -21,7 +21,8 @@ It demonstrates the use of aggregation, JOINs, date filtering, and window functi
 - Conditional logic: `CASE WHEN`  
 - Window functions: `RANK()`, `DENSE_RANK()`, `LAG()`, `LEAD()`  
 
-
+Blinkit Datasets
+![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100659.png?raw=true)
 
 
 
