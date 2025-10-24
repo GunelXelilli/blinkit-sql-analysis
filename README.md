@@ -24,7 +24,7 @@ It demonstrates the use of aggregation, JOINs, date filtering, and window functi
 Blinkit Tables:
 
 ![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100659.png?raw=true)
-![image Alt]()
+![image Alt](https://github.com/GunelXelilli/blinkit-sql-analysis/blob/main/Screenshot%202025-10-24%20100723.png?raw=true)
 ![image Alt]()
 ![image Alt]()
 ![image Alt]()
