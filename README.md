@@ -7,8 +7,7 @@ It demonstrates the use of aggregation, JOINs, date filtering, and window functi
 
 ---
 
- 📂 Repository Structure
-- `blinkit_queries.sql` — All SQL queries collected and organized.  
+ 📂 Repository Structure 
 - `SQL.Questions.Solutions` — All SQL questions and solutions collected.
 - `examples` — Query output screenshots.  
 - `LICENSE` — License file (MIT suggested).  
